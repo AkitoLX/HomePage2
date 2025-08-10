@@ -8,7 +8,7 @@
 		"title": "Akito",
 		"subtitle": "如果大家都对自己更宽容一些的话，大家都变成废物就没有废物了。",
 		"enter": "enter",
-		"supportAuthor": true,
+		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
