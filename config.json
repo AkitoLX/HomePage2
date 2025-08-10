@@ -6,14 +6,14 @@
 	},
 	"intro": {
 		"title": "Akito",
-		"subtitle": "如果大家都对自己更宽容一些的话，大家都变成废物就没有废物了。",
+		"subtitle": "welcome to my page",
 		"enter": "enter",
 		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
 		"name": "Akito",
-		"signature": "Code & Input & Output",
+		"signature": "如果大家都对自己更宽容一些的话，大家都变成废物就没有废物了。",
 		"avatar": {
 			"link": "assets/avatar.png",
 			"height": "100",
@@ -21,24 +21,34 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
-				"icon": "bokeyuan",
-				"text": "Blog"
+				"href": "https://t.me/Akitolx",
+				"icon": "assets/telegram2-96.png",
+				"text": "Telegram"
 			},
 			"second": {
-				"href": "about/",
-				"icon": "xiaolian",
-				"text": "About"
+				"href": "https://open.spotify.com/user/31oktjninze24rvrac2yf742l44m?si=d4506a05eaa645f5",
+				"icon": "assets/spotify-96.png",
+				"text": "Spotify"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
-				"icon": "email",
+				"href": "mailto:akitolx2077@gmail.com",
+				"icon": "assets/email-96.png",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
-				"icon": "github",
+				"href": "https://github.com/AkitoLX",
+				"icon": "assets/github-96.png",
 				"text": "Github"
+			},
+			"fifth": {
+				"href": "https://profile.playstation.com/Akito2077",
+				"icon": "assets/playstation-96.png",
+				"text": "PlayStation"
+			},
+			"sixth": {
+				"href": "https://steamcommunity.com/id/AkitoLX/",
+				"icon": "assets/steam-96.png",
+				"text": "Steam"
 			}
 		}
 	}
