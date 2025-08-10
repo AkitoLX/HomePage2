@@ -22,32 +22,32 @@
 		"ul": {
 			"first": {
 				"href": "https://t.me/Akitolx",
-				"icon": "assets/telegram2-96.png",
+				"icon": "telegram",
 				"text": "Telegram"
 			},
 			"second": {
 				"href": "https://open.spotify.com/user/31oktjninze24rvrac2yf742l44m?si=d4506a05eaa645f5",
-				"icon": "assets/spotify-96.png",
+				"icon": "spotify",
 				"text": "Spotify"
 			},
 			"third": {
 				"href": "mailto:akitolx2077@gmail.com",
-				"icon": "assets/email-96.png",
+				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
 				"href": "https://github.com/AkitoLX",
-				"icon": "assets/github-96.png",
+				"icon": "github",
 				"text": "Github"
 			},
 			"fifth": {
 				"href": "https://profile.playstation.com/Akito2077",
-				"icon": "assets/playstation-96.png",
+				"icon": "playstation",
 				"text": "PlayStation"
 			},
 			"sixth": {
 				"href": "https://steamcommunity.com/id/AkitoLX/",
-				"icon": "assets/steam-96.png",
+				"icon": "steam",
 				"text": "Steam"
 			}
 		}
